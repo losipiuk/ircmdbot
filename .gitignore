@@ -1,0 +1,7 @@
+.eggs
+ircmdbot.egg-info
+.idea
+*.iml
+build
+dist
+*.pyc
