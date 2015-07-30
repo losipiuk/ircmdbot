@@ -23,7 +23,8 @@ class NoseTestCommand(TestCommand):
 
 
 requirements = [
-    'irc==12.4.3'
+    'irc==12.4.3',
+    'PyYAML==3.11'
 ]
 
 test_requirements = [
