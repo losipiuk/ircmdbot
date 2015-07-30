@@ -63,8 +63,8 @@ Each command is single line in following format.
 <secret> <command_alias>
 ```
 
-`<secret>` must be equal to `secret` from `config_file.yaml`
-`<command_alias>` is one of aliases defined for user talking to bot in `commands_file`
+`<secret>` must be equal to `secret` from `config_file.yaml`.</br>
+`<command_alias>` is one of aliases defined for user talking to bot in `commands_file`.
 
 Special `<command_alias>` `die` is supported and kills bot process.
 
